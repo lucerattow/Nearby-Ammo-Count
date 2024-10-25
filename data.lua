@@ -2,7 +2,7 @@ data:extend {
   {
     type = "sprite",
     name = "ammo-icon-white",
-    filename = "__Nearby-Ammo-Count-2.0__/ammo-icon-white.png",
+    filename = "__Nearby-Ammo-Count-Fork__/ammo-icon-white.png",
     priority = "extra-high",
     ---no-scale",
     width = 64,
